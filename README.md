@@ -1,4 +1,4 @@
-# google-meet-clone
+# Videochat
 
 # SETUP
 Start redis server "redis-server"
